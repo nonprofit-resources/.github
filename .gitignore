@@ -5,3 +5,5 @@
 !assets/
 !assets/**
 !README.md
+!.gitmodules
+!agent-rules
